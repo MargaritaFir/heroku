@@ -1,0 +1,29 @@
+
+
+h4.my span.fir {
+	color: red;
+}
+h4.my {
+	margin-left: 30 px;
+	margin-bottom: 5 px;
+}
+div.info span {
+	color: green;
+}
+
+div.info {
+	margin-bottom: 10px;
+}
+
+div.info p {
+	font-size: 20px;
+}
+
+div.info h3 {
+	
+	color: green;
+    font-style: italic;
+    
+
+}
+
